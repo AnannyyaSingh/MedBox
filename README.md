@@ -1,17 +1,3 @@
-# 🔷 Repository Name
-
-**medbox-ai-medical-recommendation-system**
-
----
-
-# 🧠 Description (short GitHub description)
-
-AI-powered web app that suggests medicines based on symptoms using Flask and rule-based logic.
-
----
-
-# 📘 README.md (copy-paste ready)
-
 ````markdown
 # 🩺 MedBox – Symptom-Based Medical Recommendation System
 
